@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435828443095",
+    "firebase_url": "https://tdmuconfession.firebaseio.com",
+    "project_id": "tdmuconfession",
+    "storage_bucket": "tdmuconfession.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435828443095:android:95989ab2a3aecd99",
+        "android_client_info": {
+          "package_name": "com.xiabui.tdmu_confession"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435828443095-hkmi86l5fm3j4tr2gj1i5pnn62g41fnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xiabui.tdmu_confession",
+            "certificate_hash": "2c8b05c98a0ce97b2d4a083c217abd6a020d0d20"
+          }
+        },
+        {
+          "client_id": "435828443095-t5faeuclanh2qdqo2okku2p943pf5990.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLoHz3wB0_w08wc--7134rliUAzOrDu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435828443095-t5faeuclanh2qdqo2okku2p943pf5990.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
